@@ -2,9 +2,9 @@
   "umd": {
     "umdPmdRows": [
       {
-        "idPoezd": 890106,
+        "idPoezd": "text",
         "dateOp": "2023-06-28T12:00:00",
-        "idOp": 9106,
+        "idOp": 9116,
         "dateForm": "2023-03-30T18:10:44",
         "dateIppv": null,
         "dateOpNpf": null,
@@ -184,7 +184,6 @@
         "vesTarCent": 1912,
         "vidOtklNorm": 6
       }
-    ],
-    "umdVmdRows": []
+    ]
   }
 }
